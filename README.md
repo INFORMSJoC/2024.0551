@@ -46,20 +46,19 @@ the software builds an equivalent quantum circuit which meets the connectivity r
 while at the same time minimizing gate count and error probability.
 
 In addition to the software, this repository contains [data](data) collected during the experiments
-as well as a script which supports in reproducing results.
+as well as a [script](scripts) which supports in reproducing results.
 
 ## Building
 
-Follow the intructions in the src folder to install the python package.
-For the additional script to work, you might be required to run
+Follow the intructions in the [src](src) directory to install the software as a python package.
+If you only want to run the script you can instead run
 ```bash
 pip install scripts/requirements.txt
 ```
 
-
 ## Results
 
-The can be used to reproduce the circuits used in Figure 6.
+The [script](scripts) can be used to reproduce the quantum circuits used for Figure 6 in the paper.
 
 ## Ongoing Development
 This code is being developed on an on-going basis at the author's
