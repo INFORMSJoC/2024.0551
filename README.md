@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [Apache 2.0 Li
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[This is a Template](https://doi.org/10.1287/ijoc.2024.0551). 
+[Optimized Noise Suppression for Quantum Circuits](https://doi.org/10.1287/ijoc.2024.0551). 
 The software in this snapshot is based on 
 [this SHA](https://github.com/fwgfau/tap-mapper/commit/0fc75628d865fa2d4e40f0a3fd8a47567eb477ce) 
 in the development repository. 
@@ -45,7 +45,7 @@ Given a quantum circuit and a hardware connectivity,
 the software builds an equivalent quantum circuit which meets the connectivity restrictions
 while at the same time minimizing gate count and error probability.
 
-In addition to the software, this repository contains data collected during the experiments
+In addition to the software, this repository contains [data](data) collected during the experiments
 as well as a script which supports in reproducing results.
 
 ## Building
