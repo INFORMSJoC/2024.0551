@@ -51,7 +51,7 @@ as well as a [script](scripts) which supports in reproducing results.
 ## Building
 
 Follow the intructions in the [src](src) directory to install the software as a python package.
-If you only want to run the script you can instead run
+If you only want to execute the [script](scripts) you can instead run
 ```bash
 pip install scripts/requirements.txt
 ```
