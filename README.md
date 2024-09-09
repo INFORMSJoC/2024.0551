@@ -27,7 +27,7 @@ https://doi.org/10.1287/ijoc.2024.0551.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{Wagner2024,
   author =        {Friedrich Wagner and Daniel J. Egger and Frauke Liers},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Optimized Noise Suppression for Quantum Circuits}},
